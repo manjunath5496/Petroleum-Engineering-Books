@@ -11,6 +11,7 @@
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Petroleum-Engineering-Books/blob/master/pet(9).pdf" style="text-decoration:none;">Standard Handbook of Petroleum and Natural Gas Engineering</a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Petroleum-Engineering-Books/blob/master/pet(10).pdf" style="text-decoration:none;">Introduction to Petroleum Engineering</a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Petroleum-Engineering-Books/blob/master/pet(11).pdf" style="text-decoration:none;">Geophysics for Petroleum Engineers</a></b></li>
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Petroleum-Engineering-Books/blob/master/pet(12).pdf" style="text-decoration:none;">Applying Nanotechnology to the Desulfurization Process in Petroleum Engineering</a></b></li> 
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Petroleum-Engineering-Books/blob/master/pet(13).pdf" style="text-decoration:none;">Petroleum Geoscience</a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Petroleum-Engineering-Books/blob/master/pet(14).pdf" style="text-decoration:none;">Physics of Petroleum Reservoirs</a></b></li>
@@ -27,8 +28,12 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Petroleum-Engineering-Books/blob/master/pet(23).pdf" style="text-decoration:none;">Petroleum Refinery Process Economics</a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Petroleum-Engineering-Books/blob/master/pet(24).pdf" style="text-decoration:none;">Petroleum Reservoir Engineering Practice</a></b></li>  
   
-    
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Petroleum-Engineering-Books/blob/master/pet(25).pdf" style="text-decoration:none;">Environmental Control in Petroleum Engineering</a></b></li>  
   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Petroleum-Engineering-Books/blob/master/pet(26).pdf" style="text-decoration:none;">Ludwig's Applied Process Design for Chemical and Petrochemical Plants</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Petroleum-Engineering-Books/blob/master/pet(27).pdf" style="text-decoration:none;">The Fundamentals of Corrosion and Scaling for Petroleum and Environmental Engineers</a></b></li>  
+      
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Petroleum-Engineering-Books/blob/master/pet(28).pdf" style="text-decoration:none;">Thermodynamics: Applications in Chemical Engineering and the Petroleum Industry</a></b></li>   
   
   
   
